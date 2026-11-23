@@ -1,0 +1,1 @@
+v4.2.0: fixed a bug where walking into a room deleted the reason you went in there.
